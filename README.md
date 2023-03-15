@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/Billy254/Microservices-Python/actions/workflows/devops_workflow.yml/badge.svg)](https://github.com/Billy254/Microservices-Python/actions/workflows/devops_workflow.yml)
+
 # Microservices-Python
 creating microservices using Python 
 
