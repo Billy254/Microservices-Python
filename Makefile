@@ -5,6 +5,7 @@ install:
 
 format:
 	# format code
+	black *.py mylib/*.py
 
 lint:
 	#pylint 
