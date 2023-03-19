@@ -9,6 +9,7 @@ format:
 
 lint:
 	#pylint 
+	pylint --disable=R,C *.py mylib/*.py
 
 test:
 	#test
