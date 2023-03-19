@@ -25,6 +25,8 @@ creating microservices using Python
     touch requirements.txt Dockerfile Makefile main.py 
     mkdir mylib/__init__.py 
 3. Populate Makefile.
+4. Setup continous intergration , i.e check code for issues like lint errors.
+5. Build command line tool using python fire library `./cli-fire.py --help` to test the logic
 
 
 
